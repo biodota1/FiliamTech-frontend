@@ -8,7 +8,7 @@ export default function AdminLayout() {
       <div className="w-[200px]">
         <AdminSidebar />
       </div>
-      <div className="w-auto">
+      <div className="min-h-screen w-full">
         <Outlet />
       </div>
     </div>

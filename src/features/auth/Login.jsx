@@ -31,7 +31,7 @@ export default function Login() {
                 className="checkbox checkbox-primary mb-5"
               />
             </label>
-            <Link to="/users">
+            <Link to="/admin">
               <button className="btn bg-violet-500 text-white w-full">
                 Login
               </button>
